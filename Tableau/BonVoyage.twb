@@ -336,6 +336,9 @@
           <member value='&quot;Yuma MCAS/Yuma International Airport&quot;' />
         </members>
       </column>
+      <column caption='Maximum Distance' datatype='real' name='[Parameter 1]' param-domain-type='any' role='measure' type='quantitative' value='150.0'>
+        <calculation class='tableau' formula='150.0' />
+      </column>
       <style>
         <style-rule element='mark'>
           <encoding attr='color' field='[Airport Parameter]' type='palette'>
