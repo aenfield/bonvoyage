@@ -1072,7 +1072,7 @@
           </metadata-records>
         </connection>
       </extract>
-      <layout dim-ordering='alphabetic' dim-percentage='0.29877' measure-ordering='alphabetic' measure-percentage='0.506151' parameter-percentage='0.195079' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.300158' measure-ordering='alphabetic' measure-percentage='0.507109' parameter-percentage='0.192733' show-structure='true' />
       <style>
         <style-rule element='mark'>
           <encoding attr='shape' field='[sum:Calculation_4577416469211852804 1:ok]' type='shape'>
